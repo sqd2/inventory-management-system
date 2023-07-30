@@ -1,5 +1,0 @@
-100,koko,momo,10,12
-what am I doing,holy shit,i will fail,lmao,1
-asd,asd,asd,adsasd,asd
-asd,asd,asd,asd,asd
-asd,asd,asd,asd,asd
