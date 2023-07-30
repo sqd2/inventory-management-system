@@ -1,0 +1,5 @@
+salem, sleepy123, admin
+aiham, splazey456, inventory-checker
+ahmed, narco789, purchaser
+Saul, Goodman123, purchaser
+2, numbertwo, purchaser

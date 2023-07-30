@@ -1,0 +1,10 @@
+70003, Cereal new quantity: 12, quantity change: -2, 2023-06-27
+70003, Cereal, new quantity: 9, quantity change: -3, 2023-06-27
+60004, Peanut Butter, new quantity: 9, quantity change: 1, 2023-07-04
+50003, Milk Chocolate, new quantity: 41, quantity change: 1, 2023-07-06
+60004, Peanut Butter, new quantity: 10, quantity change: 1, 2023-07-06
+60005, Salt, new quantity: 42, quantity change: 2, 2023-07-19
+70001, Corn, new quantity: 12, quantity change: 3, 2023-07-19
+70004, Mayonnaise, new quantity: 9, quantity change: -1, 2023-07-19
+70003, Cereal, new quantity: 12, quantity change: -2, 2023-07-19
+70003, Cereal, new quantity: 20, quantity change: 8, 2023-07-19

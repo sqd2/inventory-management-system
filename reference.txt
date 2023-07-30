@@ -1,0 +1,17 @@
+dairy, all milk and milk based products
+fruits, fresh fruit produce
+vegetables, fresh vegetables or greens
+bakery, baked goods
+grains, grain based produce
+pantry, products that belong in a pantry
+meat, flesh of animals
+seafood, products of any sea based creature
+canned goods, canned products
+snacks, snack foods
+beverages, liquids to drink
+spreads, stuff that is spreadable
+breakfast, products eaten with breakfast
+sauces, the sauce
+Chemicals, Chemistry stuff
+testing, this category is for testing purposes
+books, all published books
